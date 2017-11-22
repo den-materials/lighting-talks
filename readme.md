@@ -88,7 +88,7 @@ Here are some suggestions...or you can add your own!
 
 **Other**
 
-- [ ] Xcode
+- [x] Xcode - Natalie
 - [ ] PGP
 - [ ] BitTorrent
 - [ ] Distributed Applications
