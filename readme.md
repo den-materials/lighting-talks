@@ -28,7 +28,7 @@ Here are some suggestions...or you can add your own!
 - [ ] CSS Advanced Topics
 - [ ] Sass
 - [ ] Elm
-- [ ] Ruby on Rails
+- [x] Ruby on Rails - Jared
 
 **Client-side Frameworks**
 
@@ -42,11 +42,11 @@ Here are some suggestions...or you can add your own!
 
 - [ ] Hapi.js
 - [ ] Phoenix
-- [ ] Laravel
+- [x] Laravel - Jeff
 
 **IoT Frameworks**
 
-- [ ] IoT
+- [x] IoT - Court
 - [ ] Artoo.io
 
 **UI Elements and Tools**
@@ -64,6 +64,8 @@ Here are some suggestions...or you can add your own!
 - [ ] CSS Grid
 - [ ] Sketch
 - [ ] Photoshop
+- [x] Paralax/ScrollMagic - Wes
+- [x] CSS 3D - Emma
 
 **Data Storage**
 
