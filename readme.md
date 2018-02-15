@@ -16,7 +16,7 @@ Here are some suggestions...or you can add your own!
 **Languages**
 
 - [ ] ES6 Topic
-- [x] Python - Cameron
+- [ ] Python
 - [ ] Clojure
 - [ ] Go
 - [ ] Swift
@@ -28,7 +28,7 @@ Here are some suggestions...or you can add your own!
 - [ ] CSS Advanced Topics
 - [ ] Sass
 - [ ] Elm
-- [x] Ruby on Rails - Jared
+- [ ] Ruby on Rails
 
 **Client-side Frameworks**
 
@@ -36,18 +36,18 @@ Here are some suggestions...or you can add your own!
 - [ ] Ember
 - [ ] Backbone
 - [ ] Elm
-- [x] React Native - Mike
-- [x] React Component Libraries - Ryan
+- [ ] React Native
+- [ ] React Component Libraries
 
 **Server-side Frameworks**
 
 - [ ] Hapi.js
 - [ ] Phoenix
-- [x] Laravel - Jeff
+- [ ] Laravel
 
 **IoT Frameworks**
 
-- [x] IoT - Court
+- [] IoT
 - [ ] Artoo.io
 
 **UI Elements and Tools**
@@ -65,8 +65,8 @@ Here are some suggestions...or you can add your own!
 - [ ] CSS Grid
 - [ ] Sketch
 - [ ] Photoshop
-- [x] Paralax/ScrollMagic - Wes
-- [x] CSS 3D - Emma
+- [ ] Paralax/ScrollMagic
+- [ ] CSS 3D
 
 **Data Storage**
 
@@ -89,7 +89,7 @@ Here are some suggestions...or you can add your own!
 
 **Other**
 
-- [x] Xcode - Natalie
+- [ ] Xcode
 - [ ] PGP
 - [ ] BitTorrent
 - [ ] Distributed Applications
