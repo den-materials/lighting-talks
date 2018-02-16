@@ -19,7 +19,7 @@ Here are some suggestions...or you can add your own!
 - [ ] Python
 - [ ] Clojure
 - [ ] Go
-- [ ] Swift
+- [X] Swift - **Patrick**
 - [ ] C++
 - [ ] Scala
 - [ ] Elixir
@@ -36,18 +36,21 @@ Here are some suggestions...or you can add your own!
 - [ ] Ember
 - [ ] Backbone
 - [ ] Elm
-- [ ] React Native
+- [X] React Native - **Remy**
 - [ ] React Component Libraries
+- [X] Vue - **Jin**
 
 **Server-side Frameworks**
 
 - [ ] Hapi.js
 - [ ] Phoenix
 - [ ] Laravel
+- [X] Python/Django - **Brian**
 
-**IoT Frameworks**
+**IoT Frameworks/Tools**
 
-- [] IoT
+- [ ] IoT
+- [X] Raspberry Pi - **Matt**
 - [ ] Artoo.io
 
 **UI Elements and Tools**
@@ -63,10 +66,12 @@ Here are some suggestions...or you can add your own!
 - [ ] three.js
 - [ ] phaser.io
 - [ ] CSS Grid
-- [ ] Sketch
+- [X] Sketch - **Stevano**
 - [ ] Photoshop
 - [ ] Paralax/ScrollMagic
-- [ ] CSS 3D
+- [X] CSS 3D - **Kevin**
+- [X] Advanced Sass - **Jason**
+- [X] Materialize - **RJ**
 
 **Data Storage**
 
@@ -74,7 +79,7 @@ Here are some suggestions...or you can add your own!
 - [ ] Amazon S3
 - [ ] CouchDB
 - [ ] RethinkDB
-- [ ] Firebase
+- [X] Firebase - **Will**
 
 **Workflow Tools**
 
@@ -95,12 +100,18 @@ Here are some suggestions...or you can add your own!
 - [ ] Distributed Applications
 - [ ] Microcontrollers / Internet of Things
 - [ ] Machine Learning
-- [ ] Chat Bots
+- [X] Chat Bots / Watson API - **Aaron**
 - [ ] OAuth
 - [ ] Oracle SQL Developer
-- [ ] Chrome Extensions
+- [X] Chrome Extensions - **Ricky**
 - [ ] Blockchain
 - [ ] hood.ie
 - [ ] threes.js
 - [ ] Angular w/ Bootstrap and Materialize
+- [X] Scheduling Tools - **Laura**
+- [X] Microsoft Azure - **Sassan**
+- [X] Adobe Suite - **Josh**
+- [X] Progressive Web Apps - **Mark**
+- [X] Desktop App Development - **Milad**
+- [X] Amazon Mobile - **Chad**
 - [ ] etc... (suggest a topic of your own & have it approved)
